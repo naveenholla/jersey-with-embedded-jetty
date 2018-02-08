@@ -13,6 +13,7 @@ public class JerseyApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(JerseyApplication.class);
     int naveen ;
+    int naveen1 ;
 
     public static void main(String[] args) {
 
