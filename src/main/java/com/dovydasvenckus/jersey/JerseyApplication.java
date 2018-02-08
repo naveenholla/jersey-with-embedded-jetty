@@ -12,6 +12,7 @@ import static org.eclipse.jetty.servlet.ServletContextHandler.NO_SESSIONS;
 public class JerseyApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(JerseyApplication.class);
+    int naveen ;
 
     public static void main(String[] args) {
 
