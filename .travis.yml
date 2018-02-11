@@ -1,2 +1,2 @@
 language: java
-gradle build
+gradle assemble
